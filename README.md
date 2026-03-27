@@ -41,6 +41,7 @@ The platform allows users to search verified PG listings, explore mess services,
 **Backend**
 - Node.js
 - Express.js
+- typescript
 
 **Database**
 - MongoDB Atlas
@@ -49,6 +50,7 @@ The platform allows users to search verified PG listings, explore mess services,
 **Authentication**
 - JWT (JSON Web Token)
 - bcrypt.js
+  
 
 **Other Tools**
 - Cloudinary (Image Upload - Planned)
